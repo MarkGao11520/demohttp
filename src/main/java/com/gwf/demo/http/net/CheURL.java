@@ -5,5 +5,6 @@ package com.gwf.demo.http.net;
  */
 public class CheURL {
     public static final String ENCONDING = "utf-8";
+    public static final String CONTENT_TYPE = "application/json";
     public static final String CREAATE_WORK_SPACE = "http://192.168.0.187:8080/api/workspace";
 }

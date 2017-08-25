@@ -17,18 +17,19 @@
       <file leaf-file-name="EncapsuleNetTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/gwf/demo/http/EncapsuleNetTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="63" column="30" lean-forward="true" selection-start-line="63" selection-start-column="30" selection-end-line="63" selection-end-column="30" />
+            <state relative-caret-position="139">
+              <caret line="16" column="44" lean-forward="false" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
               <folding>
-                <element signature="e#926#935#0" expanded="true" />
-                <element signature="e#2241#2242#0" expanded="true" />
-                <element signature="e#2281#2282#0" expanded="true" />
+                <element signature="method#parseWS#0;class#EncapsuleNetTest#0" expanded="false" />
+                <element signature="e#1062#1071#0" expanded="true" />
+                <element signature="e#2313#2314#0" expanded="true" />
+                <element signature="e#2353#2354#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HttpClient.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="HttpClient.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/gwf/demo/http/net/HttpClient.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="456">
@@ -41,25 +42,35 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HttpAsyncTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/gwf/demo/http/HttpAsyncTest.java">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="514">
-              <caret line="86" column="7" lean-forward="false" selection-start-line="86" selection-start-column="7" selection-end-line="86" selection-end-column="7" />
+            <state relative-caret-position="264">
+              <caret line="11" column="16" lean-forward="true" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CallbackString.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="CallbackString.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/gwf/demo/http/net/CallbackString.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="35" column="26" lean-forward="false" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="26" />
+            <state relative-caret-position="216">
+              <caret line="15" column="9" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="68" />
               <folding>
-                <element signature="e#967#968#0" expanded="true" />
-                <element signature="e#1000#1001#0" expanded="true" />
+                <element signature="e#1117#1118#0" expanded="true" />
+                <element signature="e#1150#1151#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CheURL.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/gwf/demo/http/net/CheURL.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="6" column="10" lean-forward="false" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -128,18 +139,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Servers.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/gwf/demo/http/dataobject/Servers.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="9" column="18" lean-forward="false" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -161,7 +160,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/gwf/demo/http/HttpClientTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/gwf/demo/http/HttpAsyncTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/URL.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/gwf/demo/http/converter/DataObject2StringEntity.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/gwf/demo/http/net/CallBack.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/gwf/demo/http/net/CheURL.java" />
@@ -182,9 +180,10 @@
         <option value="$PROJECT_DIR$/src/main/java/com/gwf/demo/http/dataobject/Machines.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/gwf/demo/http/dataobject/Environment.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/gwf/demo/http/dataobject/Environments.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/gwf/demo/http/net/HttpClient.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/gwf/demo/http/EncapsuleNetTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/gwf/demo/http/net/CallbackString.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/gwf/demo/http/net/HttpClient.java" />
       </list>
     </option>
   </component>
@@ -317,6 +316,66 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="http" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demohttp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demohttp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="http" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="net" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demohttp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demohttp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="http" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dataobject" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -800,16 +859,15 @@
       <workItem from="1503472954052" duration="6301000" />
       <workItem from="1503537879297" duration="1151000" />
       <workItem from="1503560415370" duration="935000" />
-      <workItem from="1503621427222" duration="3292000" />
+      <workItem from="1503621427222" duration="4376000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11679000" />
+    <option name="totallyTimeSpent" value="12763000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -819,14 +877,14 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329602" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329602" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26037195" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26037195" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1004,9 +1062,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1968">
           <caret line="92" column="8" lean-forward="false" selection-start-line="92" selection-start-column="8" selection-end-line="92" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1031,9 +1087,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1968">
           <caret line="92" column="8" lean-forward="false" selection-start-line="92" selection-start-column="8" selection-end-line="92" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1125,21 +1179,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/gwf/demo/http/HttpClientTest.java" />
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="21" column="42" lean-forward="false" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/gwf/demo/http/converter/DataObject2StringEntity.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/gwf/demo/http/net/CheURL.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="6" column="10" lean-forward="false" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/gwf/demo/http/net/INetResult.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
@@ -1301,18 +1341,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/gwf/demo/http/EncapsuleNetTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="63" column="30" lean-forward="true" selection-start-line="63" selection-start-column="30" selection-end-line="63" selection-end-column="30" />
-          <folding>
-            <element signature="e#926#935#0" expanded="true" />
-            <element signature="e#2241#2242#0" expanded="true" />
-            <element signature="e#2281#2282#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/gwf/demo/http/HttpAsyncTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="514">
@@ -1321,14 +1349,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/gwf/demo/http/net/CallbackString.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="35" column="26" lean-forward="false" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="26" />
+        <state relative-caret-position="264">
+          <caret line="11" column="16" lean-forward="true" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gwf/demo/http/EncapsuleNetTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="16" column="44" lean-forward="false" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
           <folding>
-            <element signature="e#967#968#0" expanded="true" />
-            <element signature="e#1000#1001#0" expanded="true" />
+            <element signature="method#parseWS#0;class#EncapsuleNetTest#0" expanded="false" />
+            <element signature="e#1062#1071#0" expanded="true" />
+            <element signature="e#2313#2314#0" expanded="true" />
+            <element signature="e#2353#2354#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gwf/demo/http/net/CheURL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="10" lean-forward="false" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1339,6 +1385,17 @@
           <folding>
             <element signature="method#executePost#0;class#HttpClient#0" expanded="false" />
             <element signature="method#parseEntity#0;class#HttpClient#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gwf/demo/http/net/CallbackString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="15" column="9" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="68" />
+          <folding>
+            <element signature="e#1117#1118#0" expanded="true" />
+            <element signature="e#1150#1151#0" expanded="true" />
           </folding>
         </state>
       </provider>

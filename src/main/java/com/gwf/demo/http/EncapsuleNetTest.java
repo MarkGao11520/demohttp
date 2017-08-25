@@ -12,9 +12,19 @@ import java.util.List;
 
 /**
  * Created by gaowenfeng on 2017/8/23.
+ * 测试类，调用封装好的异步请求的类要实现INetResult<String>接口
+ * 重写起getNetData方法对返回结果进行封装
  */
 public class EncapsuleNetTest implements INetResult<String>{
     public static void main(String[] args) {
+        HttpClient.createWorkSpace(parseWS(),new CallbackString(new EncapsuleNetTest()));
+    }
+
+    /**
+     * 模拟获取实体类数据
+     * @return
+     */
+    public static WorkSpace parseWS(){
         WorkSpace workSpace = new WorkSpace();
 
         workSpace.setName("myworkspace");
@@ -61,7 +71,7 @@ public class EncapsuleNetTest implements INetResult<String>{
         workSpace.setDefaultEnv("myworkspace");
         workSpace.setProjects(new ArrayList<Project>());
         workSpace.setLinks(new ArrayList<Link>());
-        HttpClient.createWorkSpace(workSpace,new CallbackString(new EncapsuleNetTest()));
+        return workSpace;
     }
 
     public void getNetData(String data) {
